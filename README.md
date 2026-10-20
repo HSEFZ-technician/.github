@@ -1,6 +1,6 @@
 # HSEFZ Technicians
 
-We are the **technical advisors** of the **EFZ Student Federation**.
+We are the **technical advisors** of the **Student Club Association**.
 
 HSEFZ-technician builds and maintains digital tools for campus activities, school services, and student life.
 
